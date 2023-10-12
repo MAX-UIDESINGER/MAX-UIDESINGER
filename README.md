@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi I am <a href="https://aristi.dev">Paul Martin Cuba Nuñez</a> 👋</h1>
+</div>
+<img src="https://github.com/MAX-UIDESINGER/MAX-UIDESINGER/assets/65052659/f88b83f7-ef17-4153-aa40-a51d4d62f9d9">
 
-<!--
-**MAX-UIDESINGER/MAX-UIDESINGER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/MAX-UIDESINGER)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- :triangular_ruler: Frontend development
+- :electron: Full Stack Web Development
