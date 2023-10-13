@@ -8,4 +8,4 @@
 
 - 📲 Mobile developer
 - :triangular_ruler: Frontend development
-- :electron: Full Stack Web Development
+- :electron:  Full Stack Web Development
